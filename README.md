@@ -1,1 +1,5 @@
-# ecoomerce-web-app
+# responive-ecoomerce-web-app
+using
+-HTML
+-CSS
+-Javascrift
